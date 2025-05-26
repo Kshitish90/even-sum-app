@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenSumAdd", "EvenSumAdd\EvenSumAdd.csproj", "{17B14442-306E-42EE-8ED6-EDE865A0BB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenSumService.Tests", "EvenSumService.Tests\EvenSumService.Tests.csproj", "{78F00976-50E8-4111-AB79-73A4DAA3CFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B14442-306E-42EE-8ED6-EDE865A0BB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B14442-306E-42EE-8ED6-EDE865A0BB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B14442-306E-42EE-8ED6-EDE865A0BB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B14442-306E-42EE-8ED6-EDE865A0BB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F00976-50E8-4111-AB79-73A4DAA3CFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F00976-50E8-4111-AB79-73A4DAA3CFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F00976-50E8-4111-AB79-73A4DAA3CFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F00976-50E8-4111-AB79-73A4DAA3CFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70592FB5-ACE3-4DF4-812B-0410B71B04F9}
+	EndGlobalSection
+EndGlobal

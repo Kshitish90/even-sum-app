@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|c:\\users\\kshit\\source\\repos\\evensumadd\\evensumadd\\controllers\\evennumberssumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|solutionrelative:evensumadd\\controllers\\evennumberssumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|c:\\users\\kshit\\source\\repos\\evensumadd\\evensumadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|solutionrelative:evensumadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|c:\\users\\kshit\\source\\repos\\evensumadd\\evensumadd\\services\\evensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|solutionrelative:evensumadd\\services\\evensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F00976-50E8-4111-AB79-73A4DAA3CFDA}|EvenSumService.Tests\\EvenSumService.Tests.csproj|c:\\users\\kshit\\source\\repos\\evensumadd\\evensumservice.tests\\evennumbersumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F00976-50E8-4111-AB79-73A4DAA3CFDA}|EvenSumService.Tests\\EvenSumService.Tests.csproj|solutionrelative:evensumservice.tests\\evennumbersumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|c:\\users\\kshit\\source\\repos\\evensumadd\\evensumadd\\services\\ievensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B14442-306E-42EE-8ED6-EDE865A0BB7C}|EvenSumAdd\\EvenSumAdd.csproj|solutionrelative:evensumadd\\services\\ievensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvenNumberSumControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumService.Tests\\EvenNumberSumControllerTests.cs",
+              "RelativeDocumentMoniker": "EvenSumService.Tests\\EvenNumberSumControllerTests.cs",
+              "ToolTip": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumService.Tests\\EvenNumberSumControllerTests.cs",
+              "RelativeToolTip": "EvenSumService.Tests\\EvenNumberSumControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:23:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvenSumCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Services\\EvenSumCalculator.cs",
+              "RelativeDocumentMoniker": "EvenSumAdd\\Services\\EvenSumCalculator.cs",
+              "ToolTip": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Services\\EvenSumCalculator.cs",
+              "RelativeToolTip": "EvenSumAdd\\Services\\EvenSumCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:15:49.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEvenSumCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Services\\IEvenSumCalculator.cs",
+              "RelativeDocumentMoniker": "EvenSumAdd\\Services\\IEvenSumCalculator.cs",
+              "ToolTip": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Services\\IEvenSumCalculator.cs",
+              "RelativeToolTip": "EvenSumAdd\\Services\\IEvenSumCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:13:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenNumbersSumController.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Controllers\\EvenNumbersSumController.cs",
+              "RelativeDocumentMoniker": "EvenSumAdd\\Controllers\\EvenNumbersSumController.cs",
+              "ToolTip": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Controllers\\EvenNumbersSumController.cs",
+              "RelativeToolTip": "EvenSumAdd\\Controllers\\EvenNumbersSumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:11:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Program.cs",
+              "RelativeDocumentMoniker": "EvenSumAdd\\Program.cs",
+              "ToolTip": "C:\\Users\\kshit\\source\\repos\\EvenSumAdd\\EvenSumAdd\\Program.cs",
+              "RelativeToolTip": "EvenSumAdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:04:09.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

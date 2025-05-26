@@ -1,0 +1,6 @@
+@EvenSumAdd_HostAddress = http://localhost:5032
+
+GET {{EvenSumAdd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

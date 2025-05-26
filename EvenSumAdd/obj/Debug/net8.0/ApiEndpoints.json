@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EvenSumService.Controllers.EvenNumberSumController",
+    "Method": "GetEvenSum",
+    "RelativePath": "api/EvenNumberSum/sum",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,8 @@
+<div class="container mt-4">
+  <h2>Sum of Even Numbers</h2>
+  <input class="form-control" [(ngModel)]="inputNumbers" placeholder="Enter numbers (e.g. 1,2,3,4)" />
+  <button class="btn btn-primary mt-2" (click)="calculateSum()">Calculate</button>
+  <div *ngIf="result !== null" class="alert alert-success mt-2">
+    Sum of even numbers: {{ result }}
+  </div>
+</div><p>even-sum works!</p>
