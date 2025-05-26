@@ -25,7 +25,8 @@ A full-stack demo application built with:
 ## 🚀 How to Run
 
 ### Backend (.NET API)
+### UI(Angular)
+cd EvenSumUI
+npm install
+ng serve
 
-```bash
-cd EvenSumAdd
-dotnet run
